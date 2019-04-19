@@ -1,0 +1,14 @@
+-- how to enable X-FORWARDED-FOR --
+
+https://psadmin.io/2016/11/24/load-balancers-and-client-ip-addresses/
+
+https://stackoverflow.com/questions/22504318/how-to-log-x-forwarded-for-in-weblogics-access-log
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec4.html
+
+https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=24259691127764&id=1310268.1&displayIndex=3&_afrWindowMode=0&_adf.ctrl-state=vj6vnlaqt_555#FIX
+
+https://en.wikipedia.org/wiki/X-Forwarded-For
+
+
+https://docs.oracle.com/cd/E14571_01/web.1111/e13701/web_server.htm#CNFGD192
