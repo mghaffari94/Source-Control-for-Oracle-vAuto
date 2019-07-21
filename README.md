@@ -1,4 +1,4 @@
-# Source Control for Oracle ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+## Source Control for Oracle ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 Connect Oracle Database to your existing Git source control system
 
